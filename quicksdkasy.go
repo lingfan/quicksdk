@@ -1,4 +1,4 @@
-package quicksdk
+package quicksdkasy
 
 import (
 	"cyhd/common/utils"
